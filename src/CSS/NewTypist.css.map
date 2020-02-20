@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,eAAgB;EACZ,OAAO,EAAE,YAAY;EAErB,yBAAY;IACV,OAAO,EAAE,CAAC;IACV,SAAS,EAAE,wBAAwB;AACnC,gBAIC;EAHC,EAAG;IAAE,OAAO,EAAC,CAAC;EACd,GAAI;IAAE,OAAO,EAAC,CAAC;EACf,IAAK;IAAE,OAAO,EAAC,CAAC",
+"sources": ["Cursor.scss"],
+"names": [],
+"file": "NewTypist.css"
+}
