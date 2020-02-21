@@ -5,6 +5,7 @@ function Portfolio() {
     return (
         <Row noGutters="true" className="App-header page">
             <h1 className="fade-in">Portfolio</h1>
+            <img src="/img/sandglo-fold.png" />
         </Row>
     )
 }
