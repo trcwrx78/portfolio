@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Sandglo Glass & Mirror",
+        "image": "/img/sandglo-fold.png",
+        "brief": "Brief Description",
+        "tech": "foundation etc",
+        "description": "Complete description",
+        "url": "http://sandgloglass.com/"
+    },
+    {
+        "id": 2,
+        "name": "Ahern Catering",
+        "image": "/img/ahern-fold.png",
+        "brief": "Brief Description",
+        "tech": "foundation etc",
+        "description": "Complete description",
+        "url": "https://www.aherncatering.com/"
+    },
+    {
+        "id": 3,
+        "name": "1st Impressions Landscaping",
+        "image": "/img/impressions-fold.png",
+        "brief": "Brief Description",
+        "tech": "foundation etc",
+        "description": "Complete description",
+        "url": "https://1stimpressionsohio.com/"
+    },
+    {
+        "id": 4,
+        "name": "Jan Dell Flowers",
+        "image": "/img/jan-fold.png",
+        "brief": "Brief Description",
+        "tech": "foundation etc",
+        "description": "Complete description",
+        "url": "https://www.jandellflowers.com/"
+    },
+    {
+        "id": 5,
+        "name": "Mileti Optical",
+        "image": "/img/mileti-fold.png",
+        "brief": "Brief Description",
+        "tech": "foundation etc",
+        "description": "Complete description",
+        "url": "https://www.miletioptical.com/"
+    },
+    {
+        "id": 6,
+        "name": "Skyco",
+        "image": "/img/skyco-fold.png",
+        "brief": "Brief Description",
+        "tech": "foundation etc",
+        "description": "Complete description",
+        "url": "https://skybryte.com/"
+    }
+]
